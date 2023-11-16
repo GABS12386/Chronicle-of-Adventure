@@ -12,7 +12,7 @@ import projetpoo2023.Item.Weapon;
  *
  * @author USER
  */
-public abstract class Character implements Attack{
+public abstract class  Character implements Attack{
     private String name;
     private int hp;
     private int mana;

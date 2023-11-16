@@ -9,7 +9,7 @@ import projetpoo2023.Item.Weapon;
 
 /**
  *
- * @author USER
+ * @author USER RAFELIMANANA Deraniaina
  */
 public abstract class Pnj extends Character{
     
