@@ -7,11 +7,6 @@ package projetpoo2023.Character;
 
 import projetpoo2023.Item.Weapon;
 
-
-/**
- *
- * @author USER
- */
 public abstract class  Character implements Attack{
     private String name;
     private int hp;
